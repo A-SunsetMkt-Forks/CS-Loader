@@ -6,8 +6,6 @@ I will provide a complete set of related documentation in the future,now you can
 
 PS:This project is written by myself out of interest, it may not be complete, if you have any questions about this project, please feel free to contact me.
 
-**Now u can taste it through my ugly site http://39.102.210.108:8080/**
-
 The obfuscation algorithm details in docs
 
 ## How to install
